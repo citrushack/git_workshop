@@ -2,4 +2,4 @@
 
 ## Contributors
 
-Divyank Shah \
+Divyank Shah
